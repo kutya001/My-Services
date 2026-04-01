@@ -1,0 +1,272 @@
+{
+  "ru": {
+    "nav": {
+      "about": "Обо мне",
+      "experience": "Опыт",
+      "skills": "Навыки",
+      "education": "Образование",
+      "contact": "Связаться"
+    },
+    "theme": {
+      "light": "Белый",
+      "dark": "Тёмный",
+      "warm": "Тёплый"
+    },
+    "hero": {
+      "name": "Омуралиев Кутман",
+      "missionTitle": "Миссия",
+      "missionDesc": "Превращаю сырые данные в готовые бизнес-решения и стратегии.",
+      "expTitle": "Опыт",
+      "expDesc": "6+ лет общего стажа. 2.5+ года фокуса в Data Analysis & BI.",
+      "stackTitle": "Стек",
+      "stackDesc": "Power BI, SQL, Python и автоматизация процессов."
+    },
+    "experience": {
+      "sectionTag": "Карьера",
+      "sectionTitle": "Профессиональный путь",
+      "showMore": "Показать ещё",
+      "jobs": [
+        { "role": "Разработчик \"Отчетность и Аналитика\"", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Наст. время", "desc": "Исправление багов, написание программного кода, оптимизация процессов.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Бизнес-аналитик", "company": "Кумтор Голд Компани", "dates": "Авг 2023 — Окт 2025", "desc": "Анализ бизнес процессов, разработка и составление ТЗ, тестирование, документирование.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
+        { "role": "Ментор (Data Analysis)", "company": "CodeInfinity", "dates": "Июнь 2024 — Март 2025", "desc": "Обучение по Анализу данных: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
+        { "role": "Тренер-консультант", "company": "DenMar", "dates": "Фев 2023 — Янв 2025", "desc": "Преподавание уроков и проведение тренингов по MS Excel (Pro уровень).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
+        { "role": "Ведущий специалист", "company": "Газпромнефть Азия", "dates": "Дек 2022 — Май 2023", "desc": "Управленческая отчетность: свод, консолидация информации, глубокий анализ данных.", "img": "gazprom.png", "icon": "fa-gas-pump" },
+        { "role": "Тренер Excel", "company": "GoFare", "dates": "Июнь 2022 — Сен 2022", "desc": "Обучение студентов основам и продвинутому анализу данных в MS Excel.", "img": "GoFare.jpg", "icon": "fa-graduation-cap" },
+        { "role": "Бизнес аналитик", "company": "Текстиль Транс - Салкын", "dates": "Март 2021 — Май 2023", "desc": "Разработка отчётов, Power BI, Excel VBA. ТЗ для 1С программистов.", "img": "textiletrans.jpg", "icon": "fa-tshirt" },
+        { "role": "Бизнес-аналитик", "company": "Маткасымов", "dates": "Окт 2021 — Март 2022", "desc": "Оптимизация производства, отчетность, расчет себестоимости.", "img": "matkasym.jpg", "icon": "fa-store" },
+        { "role": "Бухгалтер", "company": "Эквилибри Консалт", "dates": "Фев 2020 — Фев 2021", "desc": "Расчётный бухгалтер, помощник главного бухгалтера.", "img": "equilibri.png", "icon": "fa-calculator" }
+      ]
+    },
+    "skills": {
+      "sectionTag": "Компетенции",
+      "sectionTitle": "Технический стек",
+      "detailTitle": "Детализация навыков",
+      "levels": [
+        {
+          "title": "Продвинутый уровень",
+          "type": "advanced",
+          "items": ["Power BI", "Power Query", "АВС-анализ", "Анализ бизнес процессов", "Ms Excel VBA", "1С: УПП 8.3", "Draw.io"]
+        },
+        {
+          "title": "Средний уровень",
+          "type": "intermediate",
+          "items": ["SQL", "Python", "PostgreSQL", "Oracle PL/SQL", "MySQL", "ООП"]
+        },
+        {
+          "title": "Базовый уровень",
+          "type": "basic",
+          "items": ["Git", "REST API", "Docker"]
+        }
+      ]
+    },
+    "education": {
+      "sectionTag": "Знания",
+      "sectionTitle": "Образование и Курсы",
+      "academicTitle": "Академическое",
+      "coursesTitle": "Курсы и Сертификаты",
+      "academic": [
+        { "name": "БГУ", "speciality": "Бухгалтерия и аудит", "year": "2024", "note": "Неоконченное высшее" },
+        { "name": "БФЭТ", "speciality": "Бухгалтерский учет, анализ и аудит (экономист)", "year": "2020", "note": "Неоконченное высшее" }
+      ],
+      "courses": [
+        { "name": "Python Developer", "school": "Megacom IT School", "year": "2023", "icon": "fab fa-python", "iconColor": "text-blue-500" },
+        { "name": "Oracle PL/SQL", "school": "Megacom IT School", "year": "2022", "icon": "fas fa-database", "iconColor": "text-red-500" },
+        { "name": "1С Азы программирования", "school": "1С Като", "year": "2021", "icon": "fas fa-cube", "iconColor": "text-yellow-600" },
+        { "name": "Управленческий учет", "school": "CIPAEN", "year": "2021", "icon": "fas fa-chart-pie", "iconColor": "text-green-600" }
+      ]
+    },
+    "contactForm": {
+      "title": "Напишите мне",
+      "namePlaceholder": "Ваше имя",
+      "contactPlaceholder": "Телефон, email или Telegram",
+      "messagePlaceholder": "Ваше сообщение...",
+      "sendBtn": "Отправить",
+      "sending": "Отправка...",
+      "success": "Сообщение отправлено!",
+      "error": "Ошибка отправки. Попробуйте ещё раз."
+    },
+    "footer": {
+      "copyright": "© 2026. Designed with Data Driven Mindset."
+    }
+  },
+  "kg": {
+    "nav": {
+      "about": "Өзүм жөнүндө",
+      "experience": "Тажрыйба",
+      "skills": "Көндүмдөр",
+      "education": "Билим",
+      "contact": "Байланышуу"
+    },
+    "theme": {
+      "light": "Ак",
+      "dark": "Караңгы",
+      "warm": "Жылуу"
+    },
+    "hero": {
+      "name": "Өмүралиев Кутман",
+      "missionTitle": "Миссия",
+      "missionDesc": "Чийки маалыматтарды даяр бизнес-чечимдерге жана стратегияларга айландырам.",
+      "expTitle": "Тажрыйба",
+      "expDesc": "6+ жыл жалпы стаж. 2.5+ жыл Data Analysis & BI багытында.",
+      "stackTitle": "Стек",
+      "stackDesc": "Power BI, SQL, Python жана процесстерди автоматташтыруу."
+    },
+    "experience": {
+      "sectionTag": "Карьера",
+      "sectionTitle": "Кесиптик жол",
+      "showMore": "Дагы көрсөтүү",
+      "jobs": [
+        { "role": "\"Отчеттуулук жана Аналитика\" иштеп чыгуучусу", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Учурда", "desc": "Мүчүлүштүктөрдү оңдоо, программалык код жазуу, процесстерди оптималдаштыруу.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Бизнес-аналитик", "company": "Кумтор Голд Компани", "dates": "Авг 2023 — Окт 2025", "desc": "Бизнес процесстерди талдоо, ТЗ иштеп чыгуу, тестирлөө, документтештирүү.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
+        { "role": "Ментор (Data Analysis)", "company": "CodeInfinity", "dates": "Июнь 2024 — Март 2025", "desc": "Маалыматтарды талдоо боюнча окутуу: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
+        { "role": "Тренер-консультант", "company": "DenMar", "dates": "Фев 2023 — Янв 2025", "desc": "MS Excel боюнча сабактарды өткөрүү жана тренингдерди жүргүзүү (Pro деңгээл).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
+        { "role": "Жетектөөчү адис", "company": "Газпромнефть Азия", "dates": "Дек 2022 — Май 2023", "desc": "Башкаруу отчеттуулугу: маалыматтарды жыйынтыктоо, консолидациялоо, терең талдоо.", "img": "gazprom.png", "icon": "fa-gas-pump" },
+        { "role": "Excel тренер", "company": "GoFare", "dates": "Июнь 2022 — Сен 2022", "desc": "Студенттерди MS Excel'де маалыматтарды талдоонун негиздерине жана алдыңкы ыкмаларына окутуу.", "img": "GoFare.jpg", "icon": "fa-graduation-cap" },
+        { "role": "Бизнес аналитик", "company": "Текстиль Транс - Салкын", "dates": "Март 2021 — Май 2023", "desc": "Отчетторду иштеп чыгуу, Power BI, Excel VBA. 1С программисттер үчүн ТЗ.", "img": "textiletrans.jpg", "icon": "fa-tshirt" },
+        { "role": "Бизнес-аналитик", "company": "Маткасымов", "dates": "Окт 2021 — Март 2022", "desc": "Өндүрүштү оптималдаштыруу, отчеттуулук, өздүк нарк эсептөө.", "img": "matkasym.jpg", "icon": "fa-store" },
+        { "role": "Бухгалтер", "company": "Эквилибри Консалт", "dates": "Фев 2020 — Фев 2021", "desc": "Эсептөө бухгалтери, башкы бухгалтердин жардамчысы.", "img": "equilibri.png", "icon": "fa-calculator" }
+      ]
+    },
+    "skills": {
+      "sectionTag": "Компетенциялар",
+      "sectionTitle": "Техникалык стек",
+      "detailTitle": "Көндүмдөрдүн деталдаштырылышы",
+      "levels": [
+        {
+          "title": "Жогорку деңгээл",
+          "type": "advanced",
+          "items": ["Power BI", "Power Query", "ABC-анализ", "Бизнес процесстерди талдоо", "Ms Excel VBA", "1С: УПП 8.3", "Draw.io"]
+        },
+        {
+          "title": "Орто деңгээл",
+          "type": "intermediate",
+          "items": ["SQL", "Python", "PostgreSQL", "Oracle PL/SQL", "MySQL", "ООП"]
+        },
+        {
+          "title": "Базалык деңгээл",
+          "type": "basic",
+          "items": ["Git", "REST API", "Docker"]
+        }
+      ]
+    },
+    "education": {
+      "sectionTag": "Билим",
+      "sectionTitle": "Билим жана Курстар",
+      "academicTitle": "Академиялык",
+      "coursesTitle": "Курстар жана Сертификаттар",
+      "academic": [
+        { "name": "БГУ", "speciality": "Бухгалтерия жана аудит", "year": "2024", "note": "Бүтүрүлбөгөн жогорку" },
+        { "name": "БФЭТ", "speciality": "Бухгалтердик эсеп, талдоо жана аудит (экономист)", "year": "2020", "note": "Бүтүрүлбөгөн жогорку" }
+      ],
+      "courses": [
+        { "name": "Python Developer", "school": "Megacom IT School", "year": "2023", "icon": "fab fa-python", "iconColor": "text-blue-500" },
+        { "name": "Oracle PL/SQL", "school": "Megacom IT School", "year": "2022", "icon": "fas fa-database", "iconColor": "text-red-500" },
+        { "name": "1С Программалоонун негиздери", "school": "1С Като", "year": "2021", "icon": "fas fa-cube", "iconColor": "text-yellow-600" },
+        { "name": "Башкаруу эсеби", "school": "CIPAEN", "year": "2021", "icon": "fas fa-chart-pie", "iconColor": "text-green-600" }
+      ]
+    },
+    "contactForm": {
+      "title": "Мага жазыңыз",
+      "namePlaceholder": "Атыңыз",
+      "contactPlaceholder": "Телефон, email же Telegram",
+      "messagePlaceholder": "Билдирүүңүз...",
+      "sendBtn": "Жөнөтүү",
+      "sending": "Жөнөтүлүүдө...",
+      "success": "Билдирүү жөнөтүлдү!",
+      "error": "Жөнөтүү катасы. Дагы аракет кылыңыз."
+    },
+    "footer": {
+      "copyright": "© 2026. Designed with Data Driven Mindset."
+    }
+  },
+  "en": {
+    "nav": {
+      "about": "About",
+      "experience": "Experience",
+      "skills": "Skills",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "warm": "Warm"
+    },
+    "hero": {
+      "name": "Kutman Omuraliev",
+      "missionTitle": "Mission",
+      "missionDesc": "Transforming raw data into ready-made business solutions and strategies.",
+      "expTitle": "Experience",
+      "expDesc": "6+ years total. 2.5+ years focus in Data Analysis & BI.",
+      "stackTitle": "Stack",
+      "stackDesc": "Power BI, SQL, Python, and process automation."
+    },
+    "experience": {
+      "sectionTag": "Career",
+      "sectionTitle": "Professional Journey",
+      "showMore": "Show more",
+      "jobs": [
+        { "role": "Reporting & Analytics Developer", "company": "Kumtor Gold Company", "dates": "Oct 2025 — Present", "desc": "Bug fixing, writing software code, optimizing processes.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Business Analyst", "company": "Kumtor Gold Company", "dates": "Aug 2023 — Oct 2025", "desc": "Business process analysis, SRS development, testing, documentation.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
+        { "role": "Mentor (Data Analysis)", "company": "CodeInfinity", "dates": "Jun 2024 — Mar 2025", "desc": "Teaching Data Analysis: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
+        { "role": "Trainer-Consultant", "company": "DenMar", "dates": "Feb 2023 — Jan 2025", "desc": "Conducting lessons and trainings on MS Excel (Pro level).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
+        { "role": "Lead Specialist", "company": "Gazpromneft Asia", "dates": "Dec 2022 — May 2023", "desc": "Management reporting: data consolidation, deep data analysis.", "img": "gazprom.png", "icon": "fa-gas-pump" },
+        { "role": "Excel Trainer", "company": "GoFare", "dates": "Jun 2022 — Sep 2022", "desc": "Teaching students basic and advanced data analysis in MS Excel.", "img": "GoFare.jpg", "icon": "fa-graduation-cap" },
+        { "role": "Business Analyst", "company": "Textile Trans - Salkyn", "dates": "Mar 2021 — May 2023", "desc": "Report development, Power BI, Excel VBA. SRS for 1C developers.", "img": "textiletrans.jpg", "icon": "fa-tshirt" },
+        { "role": "Business Analyst", "company": "Matkasymov", "dates": "Oct 2021 — Mar 2022", "desc": "Production optimization, reporting, cost calculation.", "img": "matkasym.jpg", "icon": "fa-store" },
+        { "role": "Accountant", "company": "Equilibri Consult", "dates": "Feb 2020 — Feb 2021", "desc": "Payroll accountant, assistant chief accountant.", "img": "equilibri.png", "icon": "fa-calculator" }
+      ]
+    },
+    "skills": {
+      "sectionTag": "Competencies",
+      "sectionTitle": "Tech Stack",
+      "detailTitle": "Skills Breakdown",
+      "levels": [
+        {
+          "title": "Advanced",
+          "type": "advanced",
+          "items": ["Power BI", "Power Query", "ABC Analysis", "Business Process Analysis", "Ms Excel VBA", "1C: ERP 8.3", "Draw.io"]
+        },
+        {
+          "title": "Intermediate",
+          "type": "intermediate",
+          "items": ["SQL", "Python", "PostgreSQL", "Oracle PL/SQL", "MySQL", "OOP"]
+        },
+        {
+          "title": "Basic",
+          "type": "basic",
+          "items": ["Git", "REST API", "Docker"]
+        }
+      ]
+    },
+    "education": {
+      "sectionTag": "Knowledge",
+      "sectionTitle": "Education & Courses",
+      "academicTitle": "Academic",
+      "coursesTitle": "Courses & Certificates",
+      "academic": [
+        { "name": "BGU", "speciality": "Accounting and Audit", "year": "2024", "note": "Incomplete higher education" },
+        { "name": "BFET", "speciality": "Accounting, Analysis & Audit (Economist)", "year": "2020", "note": "Incomplete higher education" }
+      ],
+      "courses": [
+        { "name": "Python Developer", "school": "Megacom IT School", "year": "2023", "icon": "fab fa-python", "iconColor": "text-blue-500" },
+        { "name": "Oracle PL/SQL", "school": "Megacom IT School", "year": "2022", "icon": "fas fa-database", "iconColor": "text-red-500" },
+        { "name": "1C Programming Basics", "school": "1C Kato", "year": "2021", "icon": "fas fa-cube", "iconColor": "text-yellow-600" },
+        { "name": "Management Accounting", "school": "CIPAEN", "year": "2021", "icon": "fas fa-chart-pie", "iconColor": "text-green-600" }
+      ]
+    },
+    "contactForm": {
+      "title": "Write to me",
+      "namePlaceholder": "Your name",
+      "contactPlaceholder": "Phone, email or Telegram",
+      "messagePlaceholder": "Your message...",
+      "sendBtn": "Send",
+      "sending": "Sending...",
+      "success": "Message sent!",
+      "error": "Failed to send. Please try again."
+    },
+    "footer": {
+      "copyright": "© 2026. Designed with Data Driven Mindset."
+    }
+  }
+}

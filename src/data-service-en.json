@@ -1,0 +1,282 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "roadmap": "Process",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Turning Chaos into a Systematic Business",
+    "subtitle": "Full-cycle business analysis: from problem diagnosis and process mapping to building a working",
+    "subtitleMVP": "MVP",
+    "subtitleEnd": "and automated reporting.",
+    "mvpTooltip": "MVP (Minimum Viable Product) is a minimal viable solution: a working prototype that allows you to quickly test an idea, process logic, and solution usefulness without expensive full-scale development.",
+    "trustPoints": [
+      "6+ years of professional experience",
+      "Background in accounting, business analysis & IT",
+      "From problem diagnosis to solution implementation"
+    ],
+    "ctaPrimary": "Book a Diagnostic Session",
+    "ctaSecondary": "View Services",
+    "microText": "First step — a short discussion of your task to understand where exactly the business is losing time, money, or control."
+  },
+  "painPoints": {
+    "title": "When there's data but no system",
+    "subtitle": "I help businesses transition from manual chaos and scattered spreadsheets to clear process logic, requirements, MVP, and management reporting.",
+    "items": [
+      {
+        "icon": "fa-shuffle",
+        "title": "Process Chaos",
+        "text": "Employees work differently, there are no unified rules, and process weaknesses remain invisible until errors, delays, or losses appear."
+      },
+      {
+        "icon": "fa-chart-line",
+        "title": "Reports exist, but managing is hard",
+        "text": "Numbers are collected manually, sources are scattered, reports don't provide a clear picture and don't help make quick decisions."
+      },
+      {
+        "icon": "fa-gears",
+        "title": "Need automation, but don't know where to start",
+        "text": "There's a desire to digitize processes, but no schema, data structure, or clear technical specification for implementation."
+      },
+      {
+        "icon": "fa-rocket",
+        "title": "Need to quickly test an idea",
+        "text": "When it's important not to build a big system right away, but first to assemble a working MVP and test the hypothesis in practice."
+      },
+      {
+        "icon": "fa-table-cells",
+        "title": "Everything works in silos",
+        "text": "Excel, Google Sheets, 1C, Power BI — separate tools exist, but there's no unified system, logic, or transparency for the business."
+      },
+      {
+        "icon": "fa-magnifying-glass-chart",
+        "title": "Need clear analytics",
+        "text": "When the owner or manager needs not just a file with numbers, but a clear business picture for decision-making."
+      }
+    ]
+  },
+  "about": {
+    "tag": "About Me",
+    "name": "Kutman Omuraliev",
+    "role": "Business Analyst · BI Specialist",
+    "title": "Business, Data & Technical Implementation — All in One Package",
+    "shortText": "Kutman Omuraliev — business analyst and BI specialist with experience at the intersection of accounting, business processes, and IT. Worked on tasks at Kumtor, management reporting, process automation, and building analytical solutions. Helping businesses transition from manual chaos to a clear management system.",
+    "strengthText": "I approach tasks not as a technical executor, but as someone who understands how accounting and finance work, how a business process looks in reality, and how to translate a task into a clear schema, specification, and working solution.",
+    "proofPoints": [
+      "6+ years of professional experience",
+      "Background in accounting, business analysis & BI",
+      "Power BI, SQL, Python, Excel, Draw.io",
+      "From diagnosis to implementation and support"
+    ],
+    "quote": "My goal is not just to create a report or diagram, but to build a system that the owner and team can rely on every day.",
+    "detailsBtn": "More About Me",
+    "modal": {
+      "career": [
+        { "role": "Reporting & Analytics Developer", "company": "Kumtor Gold Company", "dates": "Oct 2025 — Present", "desc": "Bug fixing, writing software code, optimizing processes.", "img": "kgc.jpg" },
+        { "role": "Business Analyst", "company": "Kumtor Gold Company", "dates": "Aug 2023 — Oct 2025", "desc": "Business process analysis, specification development, testing, documentation.", "img": "kgc.jpg" },
+        { "role": "Mentor (Data Analysis)", "company": "CodeInfinity", "dates": "Jun 2024 — Mar 2025", "desc": "Teaching Data Analysis: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg" },
+        { "role": "Trainer-Consultant", "company": "DenMar", "dates": "Feb 2023 — Jan 2025", "desc": "Conducting lessons and trainings on MS Excel (Pro level).", "img": "DenMar.jpg" },
+        { "role": "Lead Specialist", "company": "Gazpromneft Asia", "dates": "Dec 2022 — May 2023", "desc": "Management reporting: data consolidation, deep data analysis.", "img": "gazprom.png" },
+        { "role": "Business Analyst", "company": "Textile Trans — Salkyn", "dates": "Mar 2021 — May 2023", "desc": "Report development, Power BI, Excel VBA. Specifications for 1C developers.", "img": "textiletrans.jpg" },
+        { "role": "Accountant", "company": "Equilibri Consult", "dates": "Feb 2020 — Feb 2021", "desc": "Payroll accountant, assistant chief accountant.", "img": "equilibri.png" }
+      ],
+      "skills": {
+        "advanced": ["Power BI", "Power Query", "ABC Analysis", "Business Process Analysis", "Ms Excel VBA", "1C: ERP 8.3", "Draw.io"],
+        "intermediate": ["SQL", "Python", "PostgreSQL", "Oracle PL/SQL", "MySQL"],
+        "basic": ["Git", "REST API", "Docker"]
+      },
+      "education": [
+        { "name": "BGU — Accounting & Audit", "year": "2024" },
+        { "name": "BFET — Accounting, Analysis & Audit", "year": "2020" }
+      ],
+      "courses": [
+        { "name": "Python Developer — Megacom IT School", "year": "2023" },
+        { "name": "Oracle PL/SQL — Megacom IT School", "year": "2022" },
+        { "name": "1C Programming Basics — 1C Kato", "year": "2021" },
+        { "name": "Management Accounting — CIPAEN", "year": "2021" }
+      ]
+    }
+  },
+  "services": {
+    "tag": "Services",
+    "title": "Services packaged into clear business results",
+    "subtitle": "Not just consulting or reports, but specific work with a problem: diagnosis, logic description, solution creation, and implementation support.",
+    "items": [
+      {
+        "id": "business_analytics",
+        "icon": "fa-sitemap",
+        "title": "Business Analysis",
+        "tagline": "I bring order to business processes and turn problems into clear technical specifications.",
+        "cta": "Order Diagnostic",
+        "whenNeeded": [
+          "processes work chaotically",
+          "employees do the same task differently",
+          "unclear where the business loses money, time, or quality",
+          "need to prepare a process for automation"
+        ],
+        "includes": [
+          "current business process analysis",
+          "problem diagnosis and growth points",
+          "financial and management accounting logic verification",
+          "business process mapping",
+          "requirements formalization",
+          "technical specification preparation"
+        ],
+        "result": "You receive a clear process map, a list of problems and improvements, and a complete technical specification for implementation or development."
+      },
+      {
+        "id": "automation_digitalization",
+        "icon": "fa-microchip",
+        "title": "Automation & Digitalization",
+        "tagline": "I transform manual processes into a working system — from logic and data structure to MVP.",
+        "cta": "Discuss MVP",
+        "whenNeeded": [
+          "too much manual work in Excel",
+          "processes depend on specific employees",
+          "need digitalization without expensive start",
+          "need to quickly test a solution idea"
+        ],
+        "includes": [
+          "current IT solutions analysis",
+          "solution logic design",
+          "database schema development (ER Diagram)",
+          "data structure preparation",
+          "prototype / MVP creation",
+          "usability and functionality verification"
+        ],
+        "result": "You receive a working MVP that can be used for testing, team demonstration, and further development into a full solution."
+      },
+      {
+        "id": "analytics_reporting",
+        "icon": "fa-chart-pie",
+        "title": "Analytics & Reporting",
+        "tagline": "I build reporting you can rely on for management decisions.",
+        "cta": "Get a Solution Example",
+        "whenNeeded": [
+          "reports are assembled manually and take too much time",
+          "management doesn't trust the current numbers",
+          "lack of transparency on revenue, expenses, cost",
+          "need convenient templates, dashboards, and analytics"
+        ],
+        "includes": [
+          "current reporting and analytics analysis",
+          "reporting requirements development",
+          "report structure and templates creation",
+          "prototype development",
+          "client approval",
+          "implementation in a convenient tool"
+        ],
+        "result": "You receive ready management reporting and analytics that help see the business picture and make decisions faster."
+      }
+    ]
+  },
+  "deliverables": {
+    "title": "The output — not general recommendations, but specific artifacts",
+    "subtitle": "Each stage of work ends with a tangible result that can be used in business immediately.",
+    "items": [
+      { "icon": "fa-diagram-project", "name": "Business Process Diagram", "desc": "Visualization of current and target workflow logic", "format": "draw.io" },
+      { "icon": "fa-database", "name": "ER Diagram", "desc": "Data structure and relationships", "format": "draw.io" },
+      { "icon": "fa-file-lines", "name": "Technical Specification", "desc": "Formalized requirements for implementation", "format": "Markdown / Word / PDF" },
+      { "icon": "fa-flask", "name": "Ready MVP", "desc": "Working solution prototype", "format": "Excel / Google Sheets / AppSheet" },
+      { "icon": "fa-chart-bar", "name": "Reporting & Analytics", "desc": "Management and financial reports", "format": "Excel / Google Sheets / Power BI" },
+      { "icon": "fa-headset", "name": "Support & Maintenance", "desc": "Post-implementation help", "format": "" }
+    ]
+  },
+  "whyTrust": {
+    "title": "Why I'm trusted with tasks where business, numbers, and systems intersect",
+    "items": [
+      { "icon": "fa-brain", "title": "Understand Business & Data", "text": "This helps see the problem not at the file level, but at the process level." },
+      { "icon": "fa-wand-magic-sparkles", "title": "Turn Chaos into Structure", "text": "From the client's idea and pain — to a schema, requirements, and working solution." },
+      { "icon": "fa-list-check", "title": "Work Step-by-Step & Transparently", "text": "The client understands what's happening and what result they get." },
+      { "icon": "fa-box-open", "title": "Deliver Tangible Results", "text": "Diagrams, specifications, MVP, reporting — everything can be used in work immediately." },
+      { "icon": "fa-screwdriver-wrench", "title": "Flexibly Choose Tools", "text": "I don't push unnecessary complexity where a simpler solution works." }
+    ]
+  },
+  "roadmap": {
+    "tag": "Process",
+    "title": "Clear path: from first meeting to support",
+    "subtitle": "Work is built step by step so the client understands at which stage the task is and what result comes next.",
+    "steps": [
+      { "step": 1, "name": "Negotiation", "desc": "Brief discussion of the task, context, expectations, and success criteria.", "duration": "1 meeting", "color": "blue" },
+      { "step": 2, "name": "Problem Diagnosis", "desc": "We analyze the current situation, identify bottlenecks, errors, and growth points.", "duration": "1–2 weeks", "color": "cyan" },
+      { "step": 3, "name": "Process Mapping", "desc": "We document the process as clear visual logic.", "duration": "", "color": "green" },
+      { "step": 4, "name": "Specification", "desc": "We translate the business task into clear requirements and formal specification.", "duration": "1 meeting", "color": "green" },
+      { "step": 5, "name": "Prototype Development", "desc": "We create a working draft solution for practical testing.", "duration": "1–2 weeks", "color": "yellow" },
+      { "step": 6, "name": "Prototype Review", "desc": "I present the solution, gather feedback, and clarify details.", "duration": "1 meeting", "color": "yellow" },
+      { "step": 7, "name": "Main Development", "desc": "We refine the solution and bring it to a working format.", "duration": "from 2 weeks", "color": "orange" },
+      { "step": 8, "name": "Final Presentation", "desc": "I deliver the solution to the client and explain how to use it.", "duration": "", "color": "orange" },
+      { "step": 9, "name": "Technical Support", "desc": "After launch, I maintain the solution and help resolve issues.", "duration": "1 month", "color": "purple" },
+      { "step": 10, "name": "Ongoing Support", "desc": "If needed, we continue collaboration on a regular basis.", "duration": "on request", "color": "purple" }
+    ]
+  },
+  "pricing": {
+    "tag": "Pricing",
+    "title": "Basic pricing guidelines",
+    "subtitle": "Final cost depends on task scope, number of processes, detail level, and implementation format.",
+    "items": [
+      { "service": "Diagnostics", "desc": "Problem analysis, bottleneck identification, and recommendations.", "price": "from $200", "icon": "fa-stethoscope" },
+      { "service": "Solution Development", "desc": "Project work: diagram, specification, prototype, MVP, reporting, or automation.", "price": "from $2,000", "icon": "fa-code" },
+      { "service": "Additional Support", "desc": "One-time or irregular support after project completion.", "price": "from $250/mo", "icon": "fa-wrench" },
+      { "service": "Ongoing Support", "desc": "For long-term collaboration and regular work with company tasks.", "price": "from $200/mo", "icon": "fa-handshake" }
+    ],
+    "note": "Exact scope and format are discussed after a brief task diagnostic."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      { "q": "What companies do you work with?", "a": "I work with companies that need to organize processes, build management reporting, prepare requirements for automation, or quickly assemble an MVP. Especially useful where finance, operations, and IT intersect." },
+      { "q": "Can we start with just diagnostics?", "a": "Yes. This is often the best first step. Diagnostics helps understand the real problem, see bottlenecks, and make an informed decision about what really needs to be done next." },
+      { "q": "Is it suitable if everything is still in Excel?", "a": "Yes. This is one of the most common scenarios. We can systematize current work, build logic, automate calculations, and prepare the foundation for further growth." },
+      { "q": "What exactly is included in an MVP?", "a": "An MVP is a minimal viable solution: a working prototype with key logic that allows you to quickly test an idea and understand how the solution will work in real business conditions." },
+      { "q": "What tools do you use for solutions?", "a": "Depending on the task, it can be Excel, Google Sheets, AppSheet, Power BI, SQL, and draw.io. The tool is selected based on the real business task, timeline, and budget." },
+      { "q": "Do you only consult or implement too?", "a": "I work not only at the analysis level. When needed, I accompany the task to prototype, MVP, reporting, and working solution." },
+      { "q": "Is there support after project completion?", "a": "Yes. Technical support is included after project completion. If needed, you can switch to one-time or ongoing support." }
+    ]
+  },
+  "contact": {
+    "title": "Describe your task — and I'll suggest a real next step",
+    "subtitle": "You can start with a short message: what's not working now, where the chaos is, and what result you need.",
+    "formTitle": "Write to Me",
+    "namePlaceholder": "Your name",
+    "contactPlaceholder": "Phone, email, or Telegram",
+    "messagePlaceholder": "For example: need process analysis, management reporting, MVP, Excel / Google Sheets / Power BI automation",
+    "sendBtn": "Send Request",
+    "sending": "Sending...",
+    "success": "Message sent! I'll get back to you soon.",
+    "error": "Send error. Please try again.",
+    "afterFormText": "Usually, the first step is a short task discussion to quickly understand where the main problem is and what solution format works best.",
+    "channels": [
+      { "icon": "fa-phone", "label": "Phone", "value": "0500 888 268", "href": "tel:+996500888268" },
+      { "icon": "fab fa-whatsapp", "label": "WhatsApp", "value": "Write", "href": "https://wa.me/996500888268" },
+      { "icon": "fab fa-telegram", "label": "Telegram", "value": "@kutya_omuraliev", "href": "https://t.me/kutya_omuraliev" },
+      { "icon": "fab fa-instagram", "label": "Instagram", "value": "@_omuraliev_kutman_", "href": "https://www.instagram.com/_omuraliev_kutman_/" }
+    ]
+  },
+  "bottomCTA": {
+    "title": "If there's chaos in business — it can be turned into a clear system",
+    "subtitle": "Start with diagnostics to see the full problem and understand which step will have maximum impact.",
+    "btn": "Discuss Your Task"
+  },
+  "footer": {
+    "copyright": "© 2026 Omuraliev Kutman. Business Analyst."
+  },
+  "ui": {
+    "aboutModalTitle": "More About Me",
+    "career": "Career",
+    "techStack": "Tech Stack",
+    "advanced": "Advanced",
+    "intermediate": "Intermediate",
+    "basic": "Basic",
+    "education": "Education",
+    "courses": "Courses",
+    "whenNeeded": "When You Need This",
+    "includes": "What's Included",
+    "result": "Result",
+    "moreDetails": "Learn More",
+    "discussTask": "Discuss Your Project",
+    "themeDark": "Dark",
+    "themeLight": "Light"
+  }
+}
