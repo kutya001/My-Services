@@ -217,7 +217,7 @@
     "subtitle": "Final cost depends on task scope, number of processes, detail level, and implementation format.",
     "items": [
       { "service": "Diagnostics", "desc": "Problem analysis, bottleneck identification, and recommendations.", "price": "from $200", "icon": "fa-stethoscope" },
-      { "service": "Solution Development", "desc": "Project work: diagram, specification, prototype, MVP, reporting, or automation.", "price": "from $2,000", "icon": "fa-code" },
+      { "service": "Solution Development", "desc": "Project work: diagram, specification, prototype, MVP, reporting, or automation.", "price": "from $1,000", "icon": "fa-code" },
       { "service": "Additional Support", "desc": "One-time or irregular support after project completion.", "price": "from $250/mo", "icon": "fa-wrench" },
       { "service": "Ongoing Support", "desc": "For long-term collaboration and regular work with company tasks.", "price": "from $200/mo", "icon": "fa-handshake" }
     ],
