@@ -751,10 +751,10 @@ export default function App() {
           <SectionHeader tag={D.roadmap.tag} title={D.roadmap.title} subtitle={D.roadmap.subtitle} />
           <div className="relative max-w-4xl mx-auto">
             {/* SVG curved road (desktop) */}
-            <svg className="hidden md:block absolute inset-0 w-full h-full pointer-events-none" preserveAspectRatio="none">
+            <svg className="hidden md:block absolute inset-0 w-full h-full pointer-events-none" viewBox="0 0 100 100" preserveAspectRatio="none">
               <path
-                d="M 50% 0 Q 80% 10%, 50% 20% Q 20% 30%, 50% 40% Q 80% 50%, 50% 60% Q 20% 70%, 50% 80% Q 80% 90%, 50% 100%"
-                fill="none" stroke="url(#roadGrad)" strokeWidth="2" strokeDasharray="8 4" className="animate-road-dash" opacity="0.3"
+                d="M 50 0 Q 80 10, 50 20 Q 20 30, 50 40 Q 80 50, 50 60 Q 20 70, 50 80 Q 80 90, 50 100"
+                fill="none" stroke="url(#roadGrad)" strokeWidth="0.5" strokeDasharray="2 1" className="animate-road-dash" opacity="0.3"
               />
               <defs>
                 <linearGradient id="roadGrad" x1="0" y1="0" x2="0" y2="1">
