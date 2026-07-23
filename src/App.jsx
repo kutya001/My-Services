@@ -157,6 +157,7 @@ export default function App() {
     if (sessionStorage.getItem('site_viewed')) return;
     analyticsRef.current = true;
     const bd = {
+      resumeText: '🚀 Твою визитку открыли!',
       time: new Date().toLocaleTimeString('ru-RU'),
       tz: Intl.DateTimeFormat().resolvedOptions().timeZone,
       ua: navigator.userAgent,
