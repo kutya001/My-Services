@@ -8,6 +8,8 @@ import TiltCard from './components/TiltCard';
 const LANGS = { ru: RU, en: EN, kg: KG };
 
 const BASE = import.meta.env.BASE_URL;
+const isExt = (p) => /^https?:\/\//.test(p);
+const imgSrc = (p) => (isExt(p) ? p : `${BASE}${p}`);
 const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxZryXC1jHMrRt_u8GJbtwexF-OVWaXLCfxbC6wBglLnGukZ7fmRh9ilrZJYWSp2e8X/exec';
 
 /* ───── Telemetry Helpers ───── */
@@ -581,7 +583,7 @@ export default function App() {
                   {/* Node dot + company image */}
                   <div className="relative z-10 flex-shrink-0">
                     <div className="w-10 h-10 rounded-full border-2 border-blue-500/50 bg-slate-900 overflow-hidden group-hover:border-blue-400 transition-colors shadow-md">
-                      <img src={`${BASE}${j.img}`} alt={j.company} className="w-full h-full object-cover" />
+                      <img src={imgSrc(j.img)} alt={j.company} className={`w-full h-full ${isExt(j.img) ? 'object-contain bg-white p-1' : 'object-cover'}`} />
                     </div>
                   </div>
                   {/* Content card */}

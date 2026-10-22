@@ -26,7 +26,8 @@
       "sectionTitle": "Профессиональный путь",
       "showMore": "Показать ещё",
       "jobs": [
-        { "role": "Разработчик \"Отчетность и Аналитика\"", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Наст. время", "desc": "Исправление багов, написание программного кода, оптимизация процессов.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Data-аналитик", "company": "Бакай Банк", "dates": "Сен 2026 — Наст. время", "desc": "Анализ данных, написание SQL-запросов, построение отчётности и дашбордов для подразделений банка.", "img": "https://bakai.kg/bbank/resize/400/1000000/assets/general_menu_metas/2026/8/4/general_menu_meta_NrOPzlUgbR7Xt9gtzSaO.png", "icon": "fa-chart-line" },
+        { "role": "Разработчик \"Отчетность и Аналитика\"", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Авг 2026", "desc": "Исправление багов, написание программного кода, оптимизация процессов.", "img": "kgc.jpg", "icon": "fa-code" },
         { "role": "Бизнес-аналитик", "company": "Кумтор Голд Компани", "dates": "Авг 2023 — Окт 2025", "desc": "Анализ бизнес процессов, разработка и составление ТЗ, тестирование, документирование.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
         { "role": "Ментор (Data Analysis)", "company": "CodeInfinity", "dates": "Июнь 2024 — Март 2025", "desc": "Обучение по Анализу данных: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
         { "role": "Тренер-консультант", "company": "DenMar", "dates": "Фев 2023 — Янв 2025", "desc": "Преподавание уроков и проведение тренингов по MS Excel (Pro уровень).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
@@ -116,7 +117,8 @@
       "sectionTitle": "Кесиптик жол",
       "showMore": "Дагы көрсөтүү",
       "jobs": [
-        { "role": "\"Отчеттуулук жана Аналитика\" иштеп чыгуучусу", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Учурда", "desc": "Мүчүлүштүктөрдү оңдоо, программалык код жазуу, процесстерди оптималдаштыруу.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Data-аналитик", "company": "Бакай Банк", "dates": "Сен 2026 — Учурда", "desc": "Маалыматтарды талдоо, SQL-суроо-талаптарды жазуу, банктын бөлүмдөрү үчүн отчеттуулукту жана дашборддорду түзүү.", "img": "https://bakai.kg/bbank/resize/400/1000000/assets/general_menu_metas/2026/8/4/general_menu_meta_NrOPzlUgbR7Xt9gtzSaO.png", "icon": "fa-chart-line" },
+        { "role": "\"Отчеттуулук жана Аналитика\" иштеп чыгуучусу", "company": "Кумтор Голд Компани", "dates": "Окт 2025 — Авг 2026", "desc": "Мүчүлүштүктөрдү оңдоо, программалык код жазуу, процесстерди оптималдаштыруу.", "img": "kgc.jpg", "icon": "fa-code" },
         { "role": "Бизнес-аналитик", "company": "Кумтор Голд Компани", "dates": "Авг 2023 — Окт 2025", "desc": "Бизнес процесстерди талдоо, ТЗ иштеп чыгуу, тестирлөө, документтештирүү.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
         { "role": "Ментор (Data Analysis)", "company": "CodeInfinity", "dates": "Июнь 2024 — Март 2025", "desc": "Маалыматтарды талдоо боюнча окутуу: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
         { "role": "Тренер-консультант", "company": "DenMar", "dates": "Фев 2023 — Янв 2025", "desc": "MS Excel боюнча сабактарды өткөрүү жана тренингдерди жүргүзүү (Pro деңгээл).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
@@ -206,7 +208,8 @@
       "sectionTitle": "Professional Journey",
       "showMore": "Show more",
       "jobs": [
-        { "role": "Reporting & Analytics Developer", "company": "Kumtor Gold Company", "dates": "Oct 2025 — Present", "desc": "Bug fixing, writing software code, optimizing processes.", "img": "kgc.jpg", "icon": "fa-code" },
+        { "role": "Data Analyst", "company": "Bakai Bank", "dates": "Sep 2026 — Present", "desc": "Data analysis, writing SQL queries, building reports and dashboards for the bank's business units.", "img": "https://bakai.kg/bbank/resize/400/1000000/assets/general_menu_metas/2026/8/4/general_menu_meta_NrOPzlUgbR7Xt9gtzSaO.png", "icon": "fa-chart-line" },
+        { "role": "Reporting & Analytics Developer", "company": "Kumtor Gold Company", "dates": "Oct 2025 — Aug 2026", "desc": "Bug fixing, writing software code, optimizing processes.", "img": "kgc.jpg", "icon": "fa-code" },
         { "role": "Business Analyst", "company": "Kumtor Gold Company", "dates": "Aug 2023 — Oct 2025", "desc": "Business process analysis, SRS development, testing, documentation.", "img": "kgc.jpg", "icon": "fa-project-diagram" },
         { "role": "Mentor (Data Analysis)", "company": "CodeInfinity", "dates": "Jun 2024 — Mar 2025", "desc": "Teaching Data Analysis: Excel, SQL, Power BI.", "img": "CodeInfinity.jpg", "icon": "fa-chalkboard-teacher" },
         { "role": "Trainer-Consultant", "company": "DenMar", "dates": "Feb 2023 — Jan 2025", "desc": "Conducting lessons and trainings on MS Excel (Pro level).", "img": "DenMar.jpg", "icon": "fa-file-excel" },
