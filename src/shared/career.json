@@ -1,0 +1,190 @@
+{
+  "_comment": "Единый источник опыта работы и навыков для резюме и визитки. Даты — ГГГГ-ММ, end: null — текущее место. Подписи дат, стаж и счётчики считаются автоматически. Главная копия — в репозитории KutEmpResume (публикуется как career.json и подтягивается визиткой). Копию в My-Services держите такой же — она нужна, если сайт резюме недоступен.",
+  "careerStart": "2020-02",
+  "dataFocusStart": "2023-08",
+  "jobs": [
+    {
+      "id": "bakai",
+      "start": "2026-09",
+      "end": null,
+      "type": "main",
+      "img": "https://bakai.kg/bbank/resize/400/1000000/assets/general_menu_metas/2026/8/4/general_menu_meta_NrOPzlUgbR7Xt9gtzSaO.png",
+      "icon": "fa-chart-line",
+      "skills": ["sql"],
+      "role": { "ru": "Data-аналитик", "kg": "Data-аналитик", "en": "Data Analyst" },
+      "company": { "ru": "Бакай Банк", "kg": "Бакай Банк", "en": "Bakai Bank" },
+      "desc": {
+        "ru": "Анализ данных, написание SQL-запросов, построение отчётности и дашбордов для подразделений банка.",
+        "kg": "Маалыматтарды талдоо, SQL-суроо-талаптарды жазуу, банктын бөлүмдөрү үчүн отчеттуулукту жана дашборддорду түзүү.",
+        "en": "Data analysis, writing SQL queries, building reports and dashboards for the bank's business units."
+      }
+    },
+    {
+      "id": "kumtor-dev",
+      "start": "2025-10",
+      "end": "2026-08",
+      "type": "main",
+      "img": "kgc.jpg",
+      "icon": "fa-code",
+      "skills": ["sql"],
+      "role": { "ru": "Разработчик «Отчетность и Аналитика»", "kg": "«Отчеттуулук жана Аналитика» иштеп чыгуучусу", "en": "Reporting & Analytics Developer" },
+      "company": { "ru": "Кумтор Голд Компани", "kg": "Кумтор Голд Компани", "en": "Kumtor Gold Company" },
+      "desc": {
+        "ru": "Разработка и доработка ERP-решений и других аналитических систем учёта, написание программного кода, оптимизация процессов.",
+        "kg": "ERP чечимдерин жана башка аналитикалык эсепке алуу системаларын иштеп чыгуу/өнүктүрүү, программалык код жазуу, процесстерди оптималдаштыруу.",
+        "en": "Development and improvement of ERP solutions and other analytical accounting systems, writing software code, process optimization."
+      }
+    },
+    {
+      "id": "kumtor-ba",
+      "start": "2023-08",
+      "end": "2025-10",
+      "type": "main",
+      "img": "kgc.jpg",
+      "icon": "fa-project-diagram",
+      "skills": ["bpa"],
+      "role": { "ru": "Бизнес-аналитик", "kg": "Бизнес-аналитик", "en": "Business Analyst" },
+      "company": { "ru": "Кумтор Голд Компани", "kg": "Кумтор Голд Компани", "en": "Kumtor Gold Company" },
+      "desc": {
+        "ru": "Анализ бизнес-процессов, разработка и составление ТЗ, тестирование, документирование.",
+        "kg": "Бизнес процесстерди талдоо, ТЗ иштеп чыгуу, тестирлөө, документтештирүү.",
+        "en": "Business process analysis, SRS development, testing, documentation."
+      }
+    },
+    {
+      "id": "codeinfinity",
+      "start": "2024-06",
+      "end": "2025-03",
+      "type": "teaching",
+      "img": "CodeInfinity.jpg",
+      "icon": "fa-chalkboard-teacher",
+      "skills": ["excel", "sql", "powerbi"],
+      "role": { "ru": "Ментор (Data Analysis)", "kg": "Ментор (Data Analysis)", "en": "Mentor (Data Analysis)" },
+      "company": { "ru": "CodeInfinity", "kg": "CodeInfinity", "en": "CodeInfinity" },
+      "desc": {
+        "ru": "Обучение анализу данных: Excel, SQL, Power BI.",
+        "kg": "Маалыматтарды талдоо боюнча окутуу: Excel, SQL, Power BI.",
+        "en": "Teaching Data Analysis: Excel, SQL, Power BI."
+      }
+    },
+    {
+      "id": "denmar",
+      "start": "2023-02",
+      "end": "2025-01",
+      "type": "teaching",
+      "img": "DenMar.jpg",
+      "icon": "fa-file-excel",
+      "skills": ["excel"],
+      "role": { "ru": "Тренер-консультант", "kg": "Тренер-консультант", "en": "Trainer-Consultant" },
+      "company": { "ru": "DenMar", "kg": "DenMar", "en": "DenMar" },
+      "desc": {
+        "ru": "Преподавание уроков и проведение тренингов по MS Excel (Pro уровень).",
+        "kg": "MS Excel боюнча сабактарды өткөрүү жана тренингдерди жүргүзүү (Pro деңгээл).",
+        "en": "Conducting lessons and trainings on MS Excel (Pro level)."
+      }
+    },
+    {
+      "id": "gazprom",
+      "start": "2022-12",
+      "end": "2023-05",
+      "type": "main",
+      "img": "gazprom.png",
+      "icon": "fa-gas-pump",
+      "skills": [],
+      "role": { "ru": "Ведущий специалист", "kg": "Жетектөөчү адис", "en": "Lead Specialist" },
+      "company": { "ru": "Газпромнефть Азия", "kg": "Газпромнефть Азия", "en": "Gazpromneft Asia" },
+      "desc": {
+        "ru": "Управленческая отчётность: свод, консолидация информации, глубокий анализ данных.",
+        "kg": "Башкаруу отчеттуулугу: маалыматтарды жыйынтыктоо, консолидациялоо, терең талдоо.",
+        "en": "Management reporting: data consolidation, deep data analysis."
+      }
+    },
+    {
+      "id": "gofare",
+      "start": "2022-06",
+      "end": "2022-09",
+      "type": "teaching",
+      "img": "GoFare.jpg",
+      "icon": "fa-graduation-cap",
+      "skills": ["excel"],
+      "services": false,
+      "role": { "ru": "Тренер Excel", "kg": "Excel тренер", "en": "Excel Trainer" },
+      "company": { "ru": "GoFare", "kg": "GoFare", "en": "GoFare" },
+      "desc": {
+        "ru": "Обучение студентов основам и продвинутому анализу данных в MS Excel.",
+        "kg": "Студенттерди MS Excel'де маалыматтарды талдоонун негиздерине жана алдыңкы ыкмаларына окутуу.",
+        "en": "Teaching students basic and advanced data analysis in MS Excel."
+      }
+    },
+    {
+      "id": "textile",
+      "start": "2021-03",
+      "end": "2023-05",
+      "type": "main",
+      "img": "textiletrans.jpg",
+      "icon": "fa-tshirt",
+      "skills": ["powerbi", "excel", "1c"],
+      "role": { "ru": "Бизнес-аналитик", "kg": "Бизнес-аналитик", "en": "Business Analyst" },
+      "company": { "ru": "Текстиль Транс — Салкын", "kg": "Текстиль Транс — Салкын", "en": "Textile Trans — Salkyn" },
+      "desc": {
+        "ru": "Разработка отчётов, Power BI, Excel VBA. ТЗ для 1С-программистов.",
+        "kg": "Отчетторду иштеп чыгуу, Power BI, Excel VBA. 1С программисттер үчүн ТЗ.",
+        "en": "Report development, Power BI, Excel VBA. SRS for 1C developers."
+      }
+    },
+    {
+      "id": "matkasym",
+      "start": "2021-10",
+      "end": "2022-03",
+      "type": "main",
+      "img": "matkasym.jpg",
+      "icon": "fa-store",
+      "skills": [],
+      "services": false,
+      "role": { "ru": "Бизнес-аналитик", "kg": "Бизнес-аналитик", "en": "Business Analyst" },
+      "company": { "ru": "Маткасымов", "kg": "Маткасымов", "en": "Matkasymov" },
+      "desc": {
+        "ru": "Оптимизация производства, отчётность, расчёт себестоимости.",
+        "kg": "Өндүрүштү оптималдаштыруу, отчеттуулук, өздүк нарк эсептөө.",
+        "en": "Production optimization, reporting, cost calculation."
+      }
+    },
+    {
+      "id": "equilibri",
+      "start": "2020-02",
+      "end": "2021-02",
+      "type": "main",
+      "img": "equilibri.png",
+      "icon": "fa-calculator",
+      "skills": [],
+      "role": { "ru": "Бухгалтер", "kg": "Бухгалтер", "en": "Accountant" },
+      "company": { "ru": "Эквилибри Консалт", "kg": "Эквилибри Консалт", "en": "Equilibri Consult" },
+      "desc": {
+        "ru": "Расчётный бухгалтер, помощник главного бухгалтера.",
+        "kg": "Эсептөө бухгалтери, башкы бухгалтердин жардамчысы.",
+        "en": "Payroll accountant, assistant chief accountant."
+      }
+    }
+  ],
+  "skills": [
+    { "id": "sql", "level": "advanced", "name": "SQL · T-SQL (MS SQL Server)" },
+    { "id": "powerbi", "level": "advanced", "name": "Power BI" },
+    { "id": "powerquery", "level": "advanced", "name": "Power Query" },
+    { "id": "excel", "level": "advanced", "name": "Excel · VBA" },
+    { "id": "bpa", "level": "advanced", "name": { "ru": "Анализ бизнес-процессов", "kg": "Бизнес процесстерди талдоо", "en": "Business Process Analysis" } },
+    { "id": "abc", "level": "advanced", "name": { "ru": "ABC-анализ", "kg": "ABC-анализ", "en": "ABC Analysis" } },
+    { "id": "1c", "level": "advanced", "name": { "ru": "1С: УПП 8.3", "kg": "1С: УПП 8.3", "en": "1C: ERP 8.3" } },
+    { "id": "drawio", "level": "advanced", "name": "Draw.io" },
+    { "id": "python", "level": "intermediate", "name": "Python" },
+    { "id": "js", "level": "intermediate", "name": "JavaScript" },
+    { "id": "gas", "level": "intermediate", "name": "Google Apps Script" },
+    { "id": "postgres", "level": "intermediate", "name": "PostgreSQL" },
+    { "id": "plsql", "level": "intermediate", "name": "Oracle PL/SQL" },
+    { "id": "mysql", "level": "intermediate", "name": "MySQL" },
+    { "id": "oop", "level": "intermediate", "name": { "ru": "ООП", "kg": "ООП", "en": "OOP" } },
+    { "id": "react", "level": "basic", "name": "React" },
+    { "id": "git", "level": "basic", "name": "Git" },
+    { "id": "rest", "level": "basic", "name": "REST API" },
+    { "id": "docker", "level": "basic", "name": "Docker" }
+  ]
+}
